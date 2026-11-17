@@ -4,7 +4,7 @@ Principle: progress
 
 ## Correction following grading feedback — November 17, 2026
 
-This revision removes agent-draft wording and distinguishes completed work from missing student reflection. It does not add a pre-build prediction or new playtest evidence.
+This revision removes agent-draft wording and records the creator's reflection supplied on November 17, 2026. It does not add a pre-build prediction or peer-playtest evidence.
 
 ## Prediction record
 
@@ -24,11 +24,19 @@ The recorded creator self-play report was that marks helped avoid revisiting sto
 
 The original interpretation and conditional next-test decision were written by the building assistant and had not been confirmed by the student. They are withdrawn as student conclusions.
 
-Student reflection remains to be supplied: what the self-play observation means for this design, whether to keep or change the markers, and why. No new student decision is claimed by this correction.
+### Student reflection — November 17, 2026
+
+“The markers helped me plan because I can now see where I was before, especially on harder levels.”
+
+This reflection was supplied by Nikhil and lightly edited for grammar by Codex. It describes the benefit experienced during creator self-play; it does not establish that other players will have the same experience.
+
+### Next decision
+
+Keep the visited-stopping-point markers in the current variation, based on the creator's reported benefit for planning. This continuation of the existing design follows the positive reflection above; no new marker or rule change is introduced.
 
 ## Known limitations
 
-The missing pre-build prediction cannot be supplied retroactively. Student-authored interpretation and a next decision are still required. A classmate playtest and browser interaction checks remain unrecorded. Automated rule checks do not establish player experience.
+The missing pre-build prediction cannot be supplied retroactively. A classmate playtest and browser interaction checks remain unrecorded. Automated rule checks do not establish player experience.
 
 ## AI assistance
 
